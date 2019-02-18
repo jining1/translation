@@ -1,24 +1,28 @@
-P001
+# p1
 
-那个老人，独自一个人驾着小船，在墨西哥湾流钓鱼。八十四天过去了，他还没有钓到一只鱼。
+## 1 He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.
 
->原文：He was an old man who fished alone in a skiff in the Gulf Stream and he had gone eighty-four days now without taking a fish.
+我的翻译：那个老人，独自一个人驾着小船，在墨西哥湾流钓鱼。八十四天过去了，他还没有钓到一只鱼。
 
 感想：英文里人称代词做主语较多，翻译成中文可以省略。有些描述地点等的定词在中文里也可成为一个独立的动词、句子，并提到前面。
 
->余光中：那老人独驾轻舟，在墨西哥湾流里捕鱼，如今出海已经有八十四天，仍是一鱼不获。
+> 余光中：那老人独驾轻舟，在墨西哥湾流里捕鱼，如今出海已经有八十四天，仍是一鱼不获。
+
 余光中的文笔简练，比如用 独驾轻舟，一鱼不获四字，比如后面的如今，仍是句子里没有人称代词，很简洁。同时文字也有一种云淡风轻的感觉。
 
->张爱玲：他是一个老头子，一个人划着一只小船在墨西哥湾大海流里打鱼，而他已经有八十四天没有捕到一条鱼了。
+> 张爱玲：他是一个老头子，一个人划着一只小船在墨西哥湾大海流里打鱼，而他已经有八十四天没有捕到一条鱼了。
+
 张爱玲的文字接地气，形象。感觉比余光中的文字更有人情味。比如，老头子，打鱼。
 
 从文风上来讲，余光中似乎更接近原文，都是干净简洁，不拖泥带水。但是从海明威表达的原意，特别是刚开始，我觉得张爱玲的描述更好。原文没有说 an old man fished ,而是加了一个he was an old man，张爱玲把那层意思表达出来了。
 
-头四十天有个男孩和他一起，没有钓到一只鱼后，孩子的父母对男孩说这个老人一定永远是倒霉的人，这是不幸的表示，男孩听从了父母的指令跟着另外一只船出海，他们第一周就抓到三条好鱼。
+## 2 In the first forty days a boy had been with him. But after forty days without a fish the boy's parents had told him that the old man was now definitely and finally salao,which is the worst form of unlucky, and the boy had gone at their orders in another boat which caught three good fish the first week.
+
+我的翻译：头四十天有个男孩和他一起，没有钓到一只鱼后，孩子的父母对男孩说这个老人一定永远是倒霉的人，这是不幸的表示，男孩听从了父母的指令跟着另外一只船出海，他们第一周就抓到三条好鱼。
 
 看到老人每天空船回来，男孩很难过。他总是过去帮助老人收起盘绕的渔网、或鱼钩鱼叉，还有卷在桅杆上的帆。
 
->英文原文：In the first forty days a boy had been with him. But after forty days without a fish the boy's parents had told him that the old man was now definitely and finally salao,which is the worst form of unlucky, and the boy had gone at their orders in another boat which caught three good fish the first week.
+>英文原文：
 
 >余光中：开始的四十天，有个男孩跟他同去。可是过了四十天还捕不到鱼，那男孩的父母便对他说，那老头子如今不折不扣地成了晦气星，那真是最糟的厄运，于是男孩听了父母的话，到另一条船上去，那条船第一个星期便捕到三尾好鱼。
 
@@ -39,11 +43,10 @@ P001
 5、接下来一句我觉得也是余光中的更接近原文。
 6、张爱玲的“吩咐”明显比我的“指令”要好。另外，“三尾好鱼”不懂啥意思
 
-----
+## 3 It made the boy sad to see the old man come in each day with his skiff empty and he always went down to help him carry either the coiled lines or the gaff and harpoon and the sail that was furled around the mast.
+看见老人每天空着船回来，男孩很难过。他总是过去帮助老人收拾盘绕的线，或者鱼钩、鱼叉、卷着桅杆的帆布。
 
-20180323P1
-
->The sail was patched with flour sacks and,furled,it looked like the flag of permanent defeat.
+## 4 The sail was patched with flour sacks and,furled,it looked like the flag of permanent defeat.
 
 帆用面粉袋打了补丁，卷起来，看上去就像一面永远失败的旗帜。
 
